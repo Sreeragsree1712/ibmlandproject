@@ -1,0 +1,41 @@
+body{
+  font-family: sans-serif;
+  height: 100%;
+}
+
+.navbar-text{
+  font-size: 30px;
+  font-weight: bold;
+}
+.navbar li{
+  padding: 0 40px;
+}
+.nav-item a{
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+
+}
+.nav-item a:hover{
+  color: orange;
+  border-bottom: 2px solid orange;
+}
+
+.jumbotron{
+  position: sticky;
+  margin-top: 7%;
+
+}
+.loginbutton{
+  text-align: center;
+  align-items: center;
+}
+.jumbotron h1{
+  color: black;
+  font-weight: bold;
+
+}
+.page-footer{
+  background-color: black;
+  color: white;
+}
